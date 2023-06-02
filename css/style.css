@@ -794,3 +794,35 @@ button {
     color: #FFFFFF;
     padding-bottom: 109px;
 }
+
+#footer {
+    background: #000;
+    padding: 100px 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.footer-text h2 {
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 48px;
+}
+
+.footer-text h3 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-bottom: 10px;
+}
+
+.footer-icons a {
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 0 7px;
+}
